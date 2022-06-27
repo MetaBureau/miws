@@ -1,7 +1,7 @@
 <template>
-  <NuxtLayout>
-    <NuxtPage />
-  </NuxtLayout>
+  <div>
+    <NuxtWelcome />
+  </div>
 </template>
 <style lang="scss">
 @import '@inkline/inkline/css/variables';

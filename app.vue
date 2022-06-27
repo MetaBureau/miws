@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Hi there</h1>
+    <h1>Hi there InkLine</h1>
     <NuxtWelcome />
   </div>
 </template>

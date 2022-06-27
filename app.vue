@@ -1,11 +1,12 @@
 <template>
-  <div>
-    <h1>Hi there InkLine</h1>
-    <NuxtWelcome />
-  </div>
+  <NuxtLayout>
+    <NuxtPage />
+  </NuxtLayout>
 </template>
-
 <style lang="scss">
+@import '@inkline/inkline/css/variables';
+@import '@inkline/inkline/css/mixins';
+
 :root {
     --color--primary--h: 195deg;
     --color--primary--s: 77%;
